@@ -8,11 +8,12 @@ I made this project just for fun, it allows you to create nice and simple GitHub
 °💻 HTML,CSS,JS
 
 ## Examples of Work
-<img src="file:///C:/Users/warun/Downloads/MicrosoftWindows.Client.CBS_cw5n1h2txyewy!InputApp/WebsiteGIF.gif" width="250" >
+<img ![Uploading WebsiteGIF.gif…]()
+
 
 - 🔭 I’m currently working on this page.
 
-![App Screenshot](file:///C:/Users/warun/Downloads/MicrosoftWindows.Client.CBS_cw5n1h2txyewy!InputApp/WebDevWebsiteDevelopmentGIF.gif)
+
 
 - [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/dhananjana123)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/https://www.linkedin.com/in/waruna-dhananjna-08137b228//)  
 
