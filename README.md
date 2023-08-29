@@ -8,7 +8,7 @@ I made this project just for fun, it allows you to create nice and simple GitHub
 °💻 HTML,CSS,JS
 
 ## Examples of Work
-<img src="file:///C:/Users/warun/Downloads/MicrosoftWindows.Client.CBS_cw5n1h2txyewy!InputApp/WebDevWebsiteDevelopmentGIF.gif" width = "256" >
+<img src="file:///C:/Users/warun/Downloads/MicrosoftWindows.Client.CBS_cw5n1h2txyewy!InputApp/WebsiteGIF.gif" width="250" >
 
 - 🔭 I’m currently working on this page.
 
