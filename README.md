@@ -1,10 +1,14 @@
-## Image-search-app, my name is Waruna
+## Image-search-app, I'm Waruna
 #### I am GitHub Readme Generator's creator
 
 
 I made this project just for fun, it allows you to create nice and simple GitHub Readme files that you can copy/paste and use in your profile.
 
-Skills:  JS / HTML / CSS
+## skills and Experience
+°💻 HTML,CSS,JS
+
+## Examples of Work
+<img src="file:///C:/Users/warun/Downloads/MicrosoftWindows.Client.CBS_cw5n1h2txyewy!InputApp/WebDevWebsiteDevelopmentGIF.gif" width = "256" />
 
 - 🔭 I’m currently working on this page.
 
