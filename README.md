@@ -6,7 +6,10 @@ I made this project just for fun, it allows you to create nice and simple GitHub
 
 Skills:  JS / HTML / CSS
 
-- 🔭 I’m currently working on this page. 
+- 🔭 I’m currently working on this page.
+
+- [![Your Name's GitHub Stats](https://github-readme-stats.vercel.app/api?username=dhananjana123&show_icons=true)](https://github.com/your-username)
+
 
 
 
