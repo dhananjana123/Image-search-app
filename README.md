@@ -8,6 +8,7 @@ I made this project just for fun, it allows you to create nice and simple GitHub
 °💻 HTML,CSS,JS
 
 ## Examples of Work
+
 <img ![Uploading WebsiteGIF.gif…]()
 
 
